@@ -7,7 +7,7 @@
     <option name="hxmlPath" value="$MODULE_DIR$/../Prototype/compile.hxml" />
     <option name="mainClass" value="Main" />
     <option name="nmeTarget" value="HTML5" />
-    <option name="nmmlPath" value="$MODULE_DIR$/../Prototype/Main.nmml" />
+    <option name="nmmlPath" value="$MODULE_DIR$/Main.nmml" />
     <option name="outputFileName" value="Main.js" />
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
