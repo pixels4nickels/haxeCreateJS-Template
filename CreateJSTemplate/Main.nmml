@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <meta title="Prototype" package="com.p4n.prototype" version="1.0.0" company="fubard" />
+    <app main="Main" file="Main" path="bin"  />
+    <window width="800" height="600" unless="mobile" />
+    <window fps="30" />
+    <source path="src" />
+    <haxelib name="createJS" />
+    <template path="assets/template" rename="../bin"/>
+    <assets path="assets/js" rename="js"/>
+</project>
